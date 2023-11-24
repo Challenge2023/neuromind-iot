@@ -4,6 +4,12 @@
 
 Este repositório contém o código-fonte de um dispositivo baseado em ESP32, projetado para coletar dados de temperatura corporal e pressão arterial. Esses dados são transmitidos para um servidor MQTT hospedado em "mqtt.tago.io" por meio da biblioteca EspMQTTClient. A solução visa preencher a lacuna na assistência aos profissionais de saúde, fornecendo uma ferramenta precisa e eficiente para coleta de dados biométricos.
 
+## Video demostrativo
+
+https://github.com/Challenge2023/neuromind-iot/assets/101189058/2e9a2552-d14d-4feb-9db4-743ecc7bb463
+
+Link youtube : https://youtu.be/TuLy11BiFJo
+
 ## Problema Identificado
 
 A ausência de um sistema integrado e inteligente impede os profissionais de saúde de obterem insights rápidos e relevantes para diagnósticos mais precisos durante a avaliação de pacientes. Embora existam ferramentas disponíveis para a coleta de dados, a falta de inteligência por trás dessas ferramentas dificulta a análise eficiente e a interpretação imediata dessas informações críticas.
